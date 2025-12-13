@@ -155,9 +155,9 @@ Administración completa de infraestructura de servidores. Migración exitosa de
 - ✅ Migración de 50+ servicios a contenedores Docker
 - ✅ Implementación de arquitectura de microservicios
 - ✅ Reducción de tiempo de deployment en 70%
-- ✅ Automatización de procesos con Jenkins y n8n
+- ✅ Automatización de procesos con Jenkins
 
-**Stack:**Digital Ocean, GCP, Proxmox, Docker,Portainer, Git/GitHub, Nagios, Oracle DB, PostgreSQL, MySQL, Tomcat, Kubernetes, Docker Swarm, Jenkins, Terraform, Rancher, New Relic, ODOO
+**Stack:**Digital Ocean, GCP, Proxmox, Docker, Git/GitHub, Nagios, Oracle DB, PostgreSQL, MySQL, Tomcat, Kubernetes, Docker Swarm, Jenkins, Terraform, Rancher, New Relic, ODOO
 
 ---
 
