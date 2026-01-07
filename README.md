@@ -148,27 +148,9 @@ Enterprise Architecture, or AI/Automation Engineering roles.
 
 ![Profile Views](badge)
 
-*Built with ❤️ by Juan M. Alvarado*
+*Juan M. Alvarado*
 
 </div>
 ```
 
 ---
-
-## 🔥 DIFERENCIAS CLAVE
-
-### ❌ TU README ACTUAL:
-```
-🎓 Formación Académica
-📜 Certificaciones (lista larga)
-🛠️ Stack (todos los badges del mundo)
-💼 Experiencia (descripción genérica)
-🚀 Proyectos (texto sin enlaces)
-```
-
-### ✅ NUEVO README:
-```
-🏆 PROYECTOS DESTACADOS (con repos reales)
-💼 Experiencia (con logros cuantificables)
-🛠️ Tech Stack (solo lo relevante)
-🎓 Educación (resumida, link a más info)
